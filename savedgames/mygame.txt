@@ -1,0 +1,1 @@
+{"wrong_guesses":2,"secret_word":"murcia","current_guess_arr":[null,"u",null,null,"i","a"]}
